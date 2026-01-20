@@ -1,0 +1,46 @@
+@charset "utf-8";
+/*CSS Document*/
+p {
+	color: maroon;
+	font-family: "angsana new", monospace;
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: gray;
+	padding: 10px;
+}
+.paragraf_2 {
+	color:maroon; background-color: rgba(000, 005, 005, 0.9)};
+.novi_blok {
+		background-color: rgba(255, 105, 105, 0.9);
+		padding:20px;
+		margin:20px;
+		width:50%;
+	}
+h1, h2 {
+	font-family: Gotham, "angsana new", Arial, "sans-serif";
+	color: maroon;
+}
+
+span {color: rgb(255, 0, 255);}
+.pozadina{
+	background-image: url("Dokumenti/dafoe.jpg");
+	background-size: 1600px 1200px;
+}
+.drugapozadina {
+	background-color: maroon;
+	background-size: 800px 600px;
+}
+a:link {
+	color: purple;
+	background-color: gray;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover {
+	background-color: darkgray;
+}
+img {
+	height: 200px;
+}
