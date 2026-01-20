@@ -24,7 +24,7 @@ h1, h2 {
 
 span {color: rgb(255, 0, 255);}
 .pozadina{
-	background-image: url("Dokumenti/dafoe.jpg");
+	background-image: url("dafoe.jpg");
 	background-size: 1600px 1200px;
 }
 .drugapozadina {
@@ -43,4 +43,5 @@ a:hover {
 }
 img {
 	height: 200px;
+
 }
